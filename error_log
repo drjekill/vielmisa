@@ -1,0 +1,1 @@
+[11-Sep-2015 20:35:06 UTC] PHP Fatal error:  Call to undefined method Expensas_model::get_visitas() in /home/vielmisa/public_html/application/controllers/propietarios.php on line 164
