@@ -141,7 +141,7 @@
                     <div class="item">
                         <div class="thumbnail">
 
-                        <img src="img/team/3.jpg" alt="..." class="img-circle team-img">
+                        <img src="img/team/2.jpg" alt="..." class="img-circle team-img">
                             <div class="caption">
                                 <p>Gerente</p>
                                 <h3>Lic. M&oacute;nica Fabale</h3>
@@ -153,7 +153,7 @@
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/3.jpg" alt="..." class="img-circle team-img">
+                            <img src="img/team/4.jpg" alt="..." class="img-circle team-img">
                             <div class="caption">
                                 <p>Gerente</p>
                                 <h3>Lic. M&oacute;nica Fabale</h3>
@@ -163,7 +163,123 @@
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img data-src="holder.js/140x140" class="img-circle" alt="140x140" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgdmlld0JveD0iMCAwIDE0MCAxNDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzE0MHgxNDAKQ3JlYXRlZCB3aXRoIEhvbGRlci5qcyAyLjYuMC4KTGVhcm4gbW9yZSBhdCBodHRwOi8vaG9sZGVyanMuY29tCihjKSAyMDEyLTIwMTUgSXZhbiBNYWxvcGluc2t5IC0gaHR0cDovL2ltc2t5LmNvCi0tPjxkZWZzPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PCFbQ0RBVEFbI2hvbGRlcl8xNTAxNWNkZDhlNSB0ZXh0IHsgZmlsbDojQUFBQUFBO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1mYW1pbHk6QXJpYWwsIEhlbHZldGljYSwgT3BlbiBTYW5zLCBzYW5zLXNlcmlmLCBtb25vc3BhY2U7Zm9udC1zaXplOjEwcHQgfSBdXT48L3N0eWxlPjwvZGVmcz48ZyBpZD0iaG9sZGVyXzE1MDE1Y2RkOGU1Ij48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI0VFRUVFRSIvPjxnPjx0ZXh0IHg9IjQ1LjUiIHk9Ijc0LjUiPjE0MHgxNDA8L3RleHQ+PC9nPjwvZz48L3N2Zz4=" data-holder-rendered="true" style="width: 140px; height: 140px;">
+                            <img src="img/team/5.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/6.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/7.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/8.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/9.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/10.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/21.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/12.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/13.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/14.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/17.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/18.jpg" alt="..." class="img-circle team-img">
+                            <div class="caption">
+                                <p></p>
+                                <h3>Arq. Monica Duarte Conde</h3>
+                            </div>
+                        </div>
+                    </div>                    
+                    <div class="item">
+                        <div class="thumbnail">
+                            <img src="img/team/19.jpg" alt="..." class="img-circle team-img">
                             <div class="caption">
                                 <p></p>
                                 <h3>Arq. Monica Duarte Conde</h3>
@@ -171,50 +287,9 @@
                         </div>
                     </div>
 
-                    <div class="item">
-                        <div class="thumbnail">
-                            <img data-src="holder.js/140x140" class="img-circle" alt="140x140" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgdmlld0JveD0iMCAwIDE0MCAxNDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzE0MHgxNDAKQ3JlYXRlZCB3aXRoIEhvbGRlci5qcyAyLjYuMC4KTGVhcm4gbW9yZSBhdCBodHRwOi8vaG9sZGVyanMuY29tCihjKSAyMDEyLTIwMTUgSXZhbiBNYWxvcGluc2t5IC0gaHR0cDovL2ltc2t5LmNvCi0tPjxkZWZzPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PCFbQ0RBVEFbI2hvbGRlcl8xNTAxNWNkZDhlNSB0ZXh0IHsgZmlsbDojQUFBQUFBO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1mYW1pbHk6QXJpYWwsIEhlbHZldGljYSwgT3BlbiBTYW5zLCBzYW5zLXNlcmlmLCBtb25vc3BhY2U7Zm9udC1zaXplOjEwcHQgfSBdXT48L3N0eWxlPjwvZGVmcz48ZyBpZD0iaG9sZGVyXzE1MDE1Y2RkOGU1Ij48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI0VFRUVFRSIvPjxnPjx0ZXh0IHg9IjQ1LjUiIHk9Ijc0LjUiPjE0MHgxNDA8L3RleHQ+PC9nPjwvZz48L3N2Zz4=" data-holder-rendered="true" style="width: 140px; height: 140px;">
-                            <div class="caption">
-                                <p></p>
-                                <h3>Arq. Gustavo C. Gil</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="thumbnail">
-                            <img src="img/team/5.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
-                                <h3>Jenn Gwapa</h3>
-                                <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="thumbnail">
-                            <img src="img/team/6.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
-                                <h3>Jenn Gwapa</h3>
-                                <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="thumbnail">
-                            <img src="img/team/3.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
-                                <h3>Jenn Gwapa</h3>
-                                <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                    
                 
+                </div>
             </div>
         </div>
     </div>
