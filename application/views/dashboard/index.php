@@ -6,8 +6,7 @@
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Administracion Vielmi s.a.</title>
-    
+    <title>Administracion Vielmi s.a.</title>   
     <!-- Favicons
     ================================================== -->
     <?php echo add_style('bootstrap');?>
@@ -43,7 +42,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <img src="images/logo.png" alt="" class="logo2 img-responsive">
+          <div id="logo" class="logo2 img-responsive"></div>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -54,7 +53,7 @@
             <li><a href="#tf-team" class="page-scroll">Staff</a></li>
             <li><a href="#tf-services" class="page-scroll">ADM.Consorcios</a></li>
             <li><a href="#tf-contact" class="page-scroll">Contactenos</a></li>
-            <li><a href="#" data-toggle="modal" data-target="#myModal" >Ingreso propietarios</a></li>
+            <li><a href="#tf-dss" class="page-scroll myModal">Ingreso propietarios</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
@@ -105,7 +104,6 @@
             </div>
         </div>
     </div>
-
     <!-- Team Page
     ==========================================-->
     <div id="tf-team" class="text-center page">
@@ -148,8 +146,6 @@
                             </div>
                         </div>
                     </div>                    
-
-
 
                     <div class="item">
                         <div class="thumbnail">
@@ -287,8 +283,6 @@
                         </div>
                     </div>
 
-                    
-                
                 </div>
             </div>
         </div>
@@ -391,6 +385,7 @@
                             <li>Modalidad de cobranza a los morosos</li>
                             <li>Manejo de los fondos del consorcio</li>
                             <li>Horarios de atención</li>-->
+
                         </ul>     
                     </div>
                 </div>
@@ -398,8 +393,6 @@
             </div>
         </div>
     </div>
-
-
 
     <!-- Contact Section
     ==========================================-->
@@ -418,7 +411,7 @@
                                 <div class="form-group">
                                     <label for="exampleInputEmail1">Email</label>
                                     <input type="email" class="form-control" 
-                                    id="exampleInputEmail1" placeholder="Enter email">
+                                    id="exampleInputEmail1" placeholder="Enter email" required>
                                 </div>
                             </div>
                         </div>                        
@@ -433,7 +426,7 @@
                         </div>
                         <div class="form-group">
                             <label for="menssage">Mensaje</label>
-                            <textarea class="form-control" rows="8"></textarea>
+                            <textarea class="form-control" rows="8" required></textarea>
                         </div>
                         
                         <button type="submit" class="btn tf-btn btn-default">Submit</button>
@@ -451,42 +444,42 @@
         Carlos Pellegrini 0739 1º "A", Cap. Fed. Argentina - (0054 11) 4393-7777 [rotativas]
         </div>
     </nav>
-
-
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-   <?php echo add_jscript('query.1.11.1');?>
+   <?php echo add_jscript('jquery.1.11.1');?>
    <?php echo add_jscript('bootstrap');?>   
    <?php echo add_jscript('SmoothScroll');?>
    <?php echo add_jscript('jquery.isotope');?>   
    <?php echo add_jscript('owl.carousel');?>
-   <?php echo add_jscript('main');?>   
-
-
+   <?php echo add_jscript('main');?>  
+   <script type="text/javascript">
+    $(".myModal").click(function(){
+        $('#myModal').modal('show');
+    });
+   </script> 
   </body>
 </html>
+
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Acceso Propietarios</h4>
-      </div>
-      <div class="modal-body">
-        <form class="form-signin">
-            <h2 class="form-signin-heading">Please sign in</h2>
-            <label for="inputEmail" class="sr-only">Email address</label>
-            <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
-            <label for="inputPassword" class="sr-only">Password</label>
-            <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
-            <div class="modal-footer">
-              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              <button type="button" class="btn btn-primary">Save changes</button>
-            </div>
-        </form>
-      </div>
-
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Acceso Propietarios</h4>
+        </div>
+        <div class="modal-body">
+            <form class="form-signin">
+                <h2 class="form-signin-heading">Please sign in</h2>
+                <label for="inputEmail" class="sr-only">Email address</label>
+                <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
+                <label for="inputPassword" class="sr-only">Password</label>
+                <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </form>
+        </div>
     </div>
   </div>
 </div>
